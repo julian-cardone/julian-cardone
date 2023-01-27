@@ -1,4 +1,4 @@
-### 👋 Hi, my name is Julian Cardone
+### 👋 Hi, I'm Julian Cardone
 
 <!--
 **julian-cardone/julian-cardone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
