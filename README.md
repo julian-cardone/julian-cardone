@@ -5,7 +5,7 @@
 - 📫 How to reach me: Email me at: juliancardone1@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/juliancardone/)
 
 ### Technologies
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,jquery,mongodb,nodejs,postgres,py,rails,react,ruby,aws,sqlite,webpack)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,jquery,mongodb,nodejs,postgres,py,rails,react,ruby,aws,sqlite,webpack,redux)](https://skills.thijs.gg)
 
 ### GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julian-cardone)](https://github.com/anuraghazra/github-readme-stats)
