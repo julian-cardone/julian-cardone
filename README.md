@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Julian Cardone
+### Hi, I'm Julian Cardone 👋 
 
 - 🔭 I’m currently looking for a software engineering role
 - 🌱 I’m currently learning Python 
