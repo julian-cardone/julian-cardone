@@ -5,7 +5,7 @@
 - 📫 How to reach me: Email me at: juliancardone1@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/juliancardone/)
 
 ### Technologies
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,jquery,mongodb,nodejs,postgres,py,rails,react,ruby)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,jquery,mongodb,nodejs,postgres,py,rails,react,ruby,aws,sqlite,webpack)](https://skills.thijs.gg)
 
 <!--
 **julian-cardone/julian-cardone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
