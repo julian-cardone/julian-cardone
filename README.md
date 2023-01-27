@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning Python 
 - 📫 How to reach me: Email me at: juliancardone1@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/juliancardone/)
 
+### Technologies
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+
 <!--
 **julian-cardone/julian-cardone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
