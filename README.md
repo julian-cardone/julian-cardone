@@ -7,8 +7,11 @@
 ### Technologies
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,jquery,mongodb,nodejs,postgres,py,rails,react,ruby,aws,sqlite,webpack,redux)](https://skills.thijs.gg)
 
+<!--
 ### GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julian-cardone)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
 
 <!--
 **julian-cardone/julian-cardone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
