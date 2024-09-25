@@ -1,6 +1,6 @@
 ### Hi, I'm Julian Cardone 👋 
 
-- 📫 How to reach me: Email me at: juliancardone1@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/juliancardone/)
+Reach me at juliancardone1@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/juliancardone/)
 
 <!--
 ### GitHub Stats
