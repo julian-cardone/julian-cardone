@@ -1,4 +1,4 @@
-### Hi, I'm Julian Cardone 👋 
+### Hi, I'm Julian 👋 
 
 Reach me at juliancardone1@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/juliancardone/)
 
